@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690641332890",
+    "project_id": "bering-abd1c",
+    "storage_bucket": "bering-abd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690641332890:android:6de184a381f544e62b0d23",
+        "android_client_info": {
+          "package_name": "com.example.bering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690641332890-dgrrf4o2cf9togkai22s9rkfkkj7onfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4ylxs9_buj3IYkquwrxmijmxOkPdh-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690641332890-dgrrf4o2cf9togkai22s9rkfkkj7onfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
